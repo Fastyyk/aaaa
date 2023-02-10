@@ -1,0 +1,100 @@
+
+.Log1{
+    position: absolute;
+width: 515px;
+height: 70px;
+left: 718px;
+top: 200px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 70px;
+/* identical to box height, or 97% */
+
+letter-spacing: 0.405em;
+text-transform: uppercase;
+
+color: #3B668D;
+
+}
+.Log2{
+    position: absolute;
+width: 579px;
+height: 36px;
+left: 708px;
+top: 417px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+letter-spacing: 0.905em;
+text-transform: uppercase;
+
+color: #3B668D;
+}
+.fon1{
+    position: absolute;
+width: 1214px;
+height: 809px;
+left: 353px;
+top: 512px;
+
+/* Background */
+
+background: #FFFFFF;
+border-radius: 6px;
+}
+.kasss{
+    position: absolute;
+width: 346px;
+height: 30px;
+left: 384px;
+top: 547px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #437FEC;
+}
+.qq1{
+    position: absolute;
+width: 304px;
+height: 15px;
+left: 796px;
+top: 553px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+/* Font/Secondary */
+
+color: #606F89;
+}
+.a10{
+    height: 40px;
+    width: 97px;
+    left: 1106px;
+    top: 539px;
+    border-radius: 4px;
+    background-color: antiquewhite;
+    color: black;
+}
